@@ -1,1 +1,0 @@
-# vision_fall_detector
