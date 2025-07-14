@@ -1,0 +1,55 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code / PyCharm / IDE config
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.spec
+
+# Logs / Coverage
+*.log
+*.cover
+*.pyc
+coverage.xml
+.cache/
+.tox/
+nosetests.xml
+*.prof
+
+# Test / Temp Files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# MyPy / Pyright / Pylint
+.mypy_cache/
+.pyright/
+.pylint.d/
+
+# Python-specific backup files
+*.pyo
